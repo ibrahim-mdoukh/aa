@@ -1,0 +1,16 @@
+.salla-theme_6 .page-box .box-more {
+    background-color: #000 !important;
+    border-radius: 10px;
+    padding: 25px;
+}
+
+.salla-theme_6 .page-box .box-more {
+    background-color: #000;
+    border-radius: 10px;
+    padding: 25px;
+}
+
+.a2a_default_style:not(.a2a_flex_style) a {
+    background-color: #fff!important;
+    border-radius: 10px;
+}
